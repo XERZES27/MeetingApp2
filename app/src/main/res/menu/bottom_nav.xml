@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/currentMeetingFragment"
+            android:icon="@drawable/ic_current_meeting"
+            android:title="Current Meeting"/>
+    <item
+            android:id="@+id/allMeetingsFragment"
+            android:icon="@drawable/ic_timeline"
+            android:title="All Meetings"/>
+    <item
+            android:id="@+id/settingFragment"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings"/>
+
+</menu>
